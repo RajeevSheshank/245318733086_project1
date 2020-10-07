@@ -1,3 +1,3 @@
 module.exports = {
-    secret: 'welcometomicroproject'
+    secret: "welcometomicroproject"
   };
